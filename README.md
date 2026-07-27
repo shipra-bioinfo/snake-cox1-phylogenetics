@@ -6,3 +6,5 @@ marker used in DNA barcoding.
 **Pipeline:** sequence retrieval and manual verification from NCBI, multiple sequence alignment (Clustal Omega), pairwise genetic distance calculation and UPGMA tree construction and visualization.
 
 See 'phylogenetics_project.ipynb' for the full analysis, methodology and discussion.
+
+![Combined GC content and pairwise distance figure](combined_figure.png)
